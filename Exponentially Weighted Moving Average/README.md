@@ -1,1 +1,1 @@
-
+## **Exponentially Weighted Moving Average**
